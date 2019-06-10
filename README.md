@@ -10,6 +10,6 @@ In this repository, I share my projects solutions for the Udacity's [Deep Reinfo
 ## Projects
 
 ### 1- Navigation
->[P1_Navigation](Link)
+>[P1_Navigation](https://github.com/dawodx/Udacity_DeepReinforcementLearning/tree/master/P1-Navigation)
 
 In this project we train an autonmous agent to collect yellow banans while avoiding blue one, in a large and square world using Deep Q-Network (DQN)-[ based on both sensory data and raw pixel data (WIP)].
